@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Anand Electronics Shop
 
 Static e-commerce website for **Anand Electronics**, Madurai. Browse products, add to cart, fill delivery details, and place orders via WhatsApp.
@@ -71,3 +72,6 @@ src/
 ├── pages/            ← Home, Shop, Cart, About
 └── components/       ← UI components
 ```
+=======
+# dhivyan_cell
+>>>>>>> 427412b3f80b2c6c543c47b7e18333cef6a98e0f
